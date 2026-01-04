@@ -12,9 +12,9 @@ st.markdown("---")
 SITES = [
     ("奈飞工厂 (首选)", "https://www.netflixgc.org/vodsearch/-------------.html?wd={q}"),
     ("低端影视 (画质)", "https://ddys.io/"),
-    ("爱壹帆 (海外)", "https://www.iyf.tv/list"),
     ("Gimy 剧迷", "https://gimytv.ai/"),
     ("4KVM (磁力)", "https://www.4kvm.org/xssearch?s={q}"),
+    ("爱壹帆 (海外)", "https://www.iyf.tv/list"),
     ("红牛资源", "https://www.hongniuziyuan.com/")
 ]
 
